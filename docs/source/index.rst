@@ -104,3 +104,9 @@
  - [https://wmpro.io](파워볼사이트 커뮤니티)
  - [https://systemsacademy.io](파워볼추천사이트 블로그)
  - [https://systemsacademy.io](동행복권 파워볼사이트)
+
+
+.. toctree::
+
+   usage
+   api
